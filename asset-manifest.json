@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/memory-cards/static/css/main.88f4c18a.chunk.css",
+    "main.js": "/memory-cards/static/js/main.facfbb76.chunk.js",
+    "main.js.map": "/memory-cards/static/js/main.facfbb76.chunk.js.map",
+    "runtime-main.js": "/memory-cards/static/js/runtime-main.77d3edff.js",
+    "runtime-main.js.map": "/memory-cards/static/js/runtime-main.77d3edff.js.map",
+    "static/js/2.2e8f9918.chunk.js": "/memory-cards/static/js/2.2e8f9918.chunk.js",
+    "static/js/2.2e8f9918.chunk.js.map": "/memory-cards/static/js/2.2e8f9918.chunk.js.map",
+    "index.html": "/memory-cards/index.html",
+    "static/css/main.88f4c18a.chunk.css.map": "/memory-cards/static/css/main.88f4c18a.chunk.css.map",
+    "static/js/2.2e8f9918.chunk.js.LICENSE.txt": "/memory-cards/static/js/2.2e8f9918.chunk.js.LICENSE.txt",
+    "static/media/Goku.6c08179f.jpg": "/memory-cards/static/media/Goku.6c08179f.jpg",
+    "static/media/Krillin.a809c652.jpg": "/memory-cards/static/media/Krillin.a809c652.jpg",
+    "static/media/Trunks.f3ac87c3.png": "/memory-cards/static/media/Trunks.f3ac87c3.png",
+    "static/media/gohanSS2.67269e16.jpg": "/memory-cards/static/media/gohanSS2.67269e16.jpg",
+    "static/media/kidBuu.755308a8.png": "/memory-cards/static/media/kidBuu.755308a8.png",
+    "static/media/pan.0228f492.png": "/memory-cards/static/media/pan.0228f492.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77d3edff.js",
+    "static/js/2.2e8f9918.chunk.js",
+    "static/css/main.88f4c18a.chunk.css",
+    "static/js/main.facfbb76.chunk.js"
+  ]
+}
